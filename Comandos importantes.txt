@@ -1,0 +1,27 @@
+Verificar o status dos arquivos dentro de uma pasta ou verificar se foram atualizados.
+
+->git status
+------------
+
+Deixar arquivos prontos para o upload branch, versionamento
+
+-> git add .
+--------------
+Inserir mensagem de versionamento, explicando alterações
+
+->git commit -m "Mensagem explicando o que foi alterado na versão tal"
+---------------
+
+fazer o upload em si das modificações
+
+-> 
+
+
+*########
+Inserir qual o destino, ou qual o repositório usado naquele projeto
+->git remote add origin https://github.com/VictorLacerdaback/projeto1-git-aprendendo-usar-git
+
+Indicar qual a versão master do arquivo, primeira versão
+-> git push --set-upstream origin master
+########*
+
