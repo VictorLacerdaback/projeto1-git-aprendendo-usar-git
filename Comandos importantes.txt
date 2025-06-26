@@ -7,15 +7,16 @@ Deixar arquivos prontos para o upload branch, versionamento
 
 -> git add .
 --------------
+
 Inserir mensagem de versionamento, explicando alterações
 
 ->git commit -m "Mensagem explicando o que foi alterado na versão tal"
 ---------------
 
-fazer o upload em si das modificações
+fazer o upload em si das modificações, com a nota de versionamento, que é o commit
 
--> 
-
+-> git push
+--------------
 
 *########
 Inserir qual o destino, ou qual o repositório usado naquele projeto
